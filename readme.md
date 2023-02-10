@@ -9,7 +9,7 @@
 </p>
 
 ## Spotify-Status 🎧
-<p float="left" >
+<p algin="center" float="left" >
   <img src="https://novatorem-amber-nine.vercel.app/api/spotify" height="150px"/>
   <img alt="Your very best cyber grandma" src="https://thekenyonthrill.files.wordpress.com/2013/10/44-grandma-computer-e1381195849436.jpg" height="150px"/>
 </p>
