@@ -8,8 +8,6 @@
 <p><a href="https://twitter.com/josemaRoGue" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
 </p>
 
-# Hey Bloedboemmel, what else do you do? 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/jakob--jung/)
 ## Spotify-Status 🎧
 <p float="left" >
   <img src="https://novatorem-amber-nine.vercel.app/api/spotify" height="150px"/>
