@@ -17,7 +17,3 @@
 ![joserogu's GitHub stats](https://github-readme-stats.vercel.app/api?username=joserogu&show_icons=true&theme=bear) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joserogu&layout=compact&theme=bear)](https://github.com/joserogu)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=joserogu&repo=GAMESEEKER&theme=bear)](https://github.com/joserogu/GAMESEEKER)
-
-<a href="https://www.youtube.com/watch?v=Hrph2EW9VjY">
-  <img alt="Bla Bla Bla by Gigi D'Agostino" src="img/BlaBlaBla.gif" height="150px"/>
-</a>
