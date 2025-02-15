@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on developing a web app
 - 🌱 I’m also learning Django framework
-- 📫 How to reach me: josemanuel.rodriguez.guerrero.alu@iesfernandoaguilar.es
+- 📫 How to reach me: josemanuelrod03@gmail.com
 - :bird: Twitter: @josemaRoGue
 <h3>Where to find me</h3>
 <p><a href="https://twitter.com/josemaRoGue" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
